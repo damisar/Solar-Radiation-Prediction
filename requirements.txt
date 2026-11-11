@@ -1,0 +1,19 @@
+
+# Data manipulation and numerical computing
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Statistical and machine learning models
+scikit-learn
+xgboost
+
+# Deep learning (RNN and LSTM)
+tensorflow
+
+# Jupyter Notebook environment
+notebook
+ipykernel
