@@ -34,3 +34,5 @@ Thumbs.db
 
 # TensorFlow training logs
 logs/
+
+/data/processed/
