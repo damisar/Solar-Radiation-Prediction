@@ -1,19 +1,22 @@
 
+# Solar Radiation Prediction
+# Verified environment: Python 3.14.6
+
 # Data manipulation and numerical computing
-numpy
-pandas
+numpy==2.4.6
+pandas==3.0.3
 
 # Data visualization
-matplotlib
-seaborn
+matplotlib==3.11.0
+seaborn==0.13.2
 
-# Statistical and machine learning models
-scikit-learn
-xgboost
+# Machine learning
+scikit-learn==1.9.0
+xgboost==3.4.1
 
-# Deep learning (RNN and LSTM)
-tensorflow
+# Deep learning
+tensorflow==2.22.0rc0
 
-# Jupyter Notebook environment
-notebook
-ipykernel
+# Jupyter environment
+notebook==7.5.7
+ipykernel==6.31.0
